@@ -67,8 +67,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kowsyap/kowsyap/output/snake.svg" alt="Snake animation" />
-
-###
