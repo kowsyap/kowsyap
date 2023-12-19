@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media.licdn.com/dms/image/D5603AQGE9K-M_1B_0A/profile-displayphoto-shrink_400_400/0/1685350172647?e=1699488000&v=beta&t=ku5yy2GxppI8_KNWYC_2TG8YM5Ox2hImBqnvTfj1Cxc"  />
+<img align="right" height="100" src="https://github.com/kowsyap/kowsyap.github.io/blob/main/static/media/pk.b140b454.jpg"  />
 
 ###
 
