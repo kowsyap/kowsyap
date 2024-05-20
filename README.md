@@ -26,8 +26,11 @@
   <a href="https://t.me/kowsyap" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
+  <a href="https://kowsyappranay.online" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="portfolio logo"  />
+  </a>
 </div>
-
+ 
 ###
 
 <div align="left">
