@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Full Stack Developer || Angular | React | Vue | Node</h4>
+<h4 align="left">MS CE & GTA @GMU | Ex Power Programmer @Infosys | IIITDMK ‘21 Alumni</h4>
 
 ###
 
