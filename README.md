@@ -117,6 +117,9 @@ Previously, I worked as a **Digital Design Engineer at Infosys**, designing RTL 
 | **[Memory-Level Design & UVM Verification of Multi-Port SRAM](https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design)** | Verilog, UVM, QuestaSim |
 | **[Transformer Anomaly Detection](https://gitlab.com/iotiotdotin/project-internship/transformer-anomaly-monitoring)** | Python, Lazypredict, Random Forests, Raspberry Pi |
 | **[GenAI-Powered Global Climate Intelligence Dashboard](https://github.com/kowsyap/climate-analyst)** | React, Azure, OpenAI, Gemini LLMs, RAG, ChromaDB |
+| **[ng-dyno-form](https://github.com/kowsyap/ng-dyno-form)** | Angular, RxJS, JavaScript, TypeScript |
+| **[Neuromorphic Motion Detection](https://github.com/kowsyap/neuromorphic-motion-detection)** | Python, Spiking Neural Networks (SNNs), Jupyter Notebook |
+| **[8-bit Harvard Architecture Processor](https://github.com/kowsyap/8-bit-harvard-processor)** | Verilog, Xilinx Vivado |
 
 ---
 
