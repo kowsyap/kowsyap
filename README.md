@@ -125,7 +125,7 @@ Previously, I worked as a **Digital Design Engineer at Infosys**, designing RTL 
 
 ## 📄 Publications
 
-- **Correctness of Synthesis for Tree based Decomposed Algorithm in Semiconductor Memory Designs with Larger Decoders**, *IEEE 2021*
+- **[Correctness of Synthesis for Tree based Decomposed Algorithm in Semiconductor Memory Designs with Larger Decoders](https://ieeexplore.ieee.org/document/9672450/)**, *IEEE 2021*
 
 ---
 
