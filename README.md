@@ -129,12 +129,24 @@ Previously, I worked as a **Digital Design Engineer at Infosys**, designing RTL 
 ## 🏅 Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/HDL_for_FPGA_Design-blue?style=flat-square" height="28" />
-  <img src="https://img.shields.io/badge/Machine_Learning-orange?style=flat-square" height="28" />
-  <img src="https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Programming_the_IoT-green?style=flat-square" height="28" />
+  <a href="https://www.coursera.org/account/accomplishments/certificate/SWBBLY4FCDYQ" target="_blank">
+    <img src="https://img.shields.io/badge/HDL_for_FPGA_Design-blue?style=flat-square" height="28" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/5F97DDYPU8BR" target="_blank">
+    <img src="https://img.shields.io/badge/Machine_Learning-orange?style=flat-square" height="28" />
+  </a>
+  <a href="https://www.credly.com/badges/6851301c-6ef9-4a85-b0e5-5fa042b697c9?source=linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/kowsyappranay-6112/D65BD867CEFF4333?sharingId=3CE5E16232D095D4" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/kowsyappranay-6112/450583BB41C2A304" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5W8TA2QGLWJ5" target="_blank">
+    <img src="https://img.shields.io/badge/Programming_the_IoT-green?style=flat-square" height="28" />
+  </a>
 </div>
 
 ---
