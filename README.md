@@ -195,7 +195,7 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 ## 📄 Publications
 
 > 📰 **[Correctness of Synthesis for Tree based Decomposed Algorithm in Semiconductor Memory Designs with Larger Decoders](https://ieeexplore.ieee.org/document/9672450/)**
-> *IEEE 2021 — IIIT Design & Manufacturing Kancheepuram*
+> *IEEE 2021*
 
 ---
 
