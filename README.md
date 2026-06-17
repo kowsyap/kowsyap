@@ -80,10 +80,10 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 <summary><b>⚡ Hardware Description Languages</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/Verilog-FF6B6B?style=flat-square&logo=v&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/VHDL-4ECDC4?style=flat-square&logo=verilog&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/SystemVerilog-45B7D1?style=flat-square&logo=v&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/UVM-FFA07A?style=flat-square&logo=v&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/VHDL-4ECDC4?style=for-the-badge&logo=verilog&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/SystemVerilog-45B7D1?style=for-the-badge&logo=v&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/UVM-FFA07A?style=for-the-badge&logo=v&logoColor=white" height="26"/>
 
 </details>
 
@@ -91,11 +91,11 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 <summary><b>🔧 EDA &amp; FPGA Tools</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/Xilinx_Vivado-FF6600?style=flat-square&logo=amd&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Vitis_HLS-FF6600?style=flat-square&logo=amd&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Cadence_Virtuoso-007ACC?style=flat-square&logo=cadence&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/QuestaSim-5C2D91?style=flat-square&logo=siemens&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Synopsys-1BA0D7?style=flat-square&logo=synopsys&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Xilinx_Vivado-FF6600?style=for-the-badge&logo=amd&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Vitis_HLS-FF6600?style=for-the-badge&logo=amd&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-007ACC?style=for-the-badge&logo=cadence&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/QuestaSim-5C2D91?style=for-the-badge&logo=siemens&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Synopsys-1BA0D7?style=for-the-badge&logo=synopsys&logoColor=white" height="26"/>
 
 </details>
 
@@ -103,13 +103,13 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="26"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="26"/>
 
 </details>
 
@@ -117,11 +117,11 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 <summary><b>🤖 ML &amp; Data Science</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26"/>
 
 </details>
 
@@ -129,14 +129,14 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 <summary><b>🌐 Web &amp; Cloud</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="26"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="26"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="26"/>
 
 </details>
 
@@ -148,52 +148,42 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
   <tr>
     <th align="left">🚀 Project</th>
     <th align="left">🧰 Stack</th>
-    <th align="center">🔗</th>
   </tr>
   <tr>
     <td><b>🔒 Reconfigurable HW Accelerator for MAYO (Post-Quantum)</b><br/><sub>FPGA implementation targeting Kintex-7 &amp; Artix-7</sub></td>
-    <td><img src="https://img.shields.io/badge/VHDL-4ECDC4?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Xilinx_Vivado-FF6600?style=flat-square&logo=amd&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Kintex--7_%26_Artix--7-grey?style=flat-square" height="20"/></td>
-    <td align="center"><i>Private</i></td>
+    <td><img src="https://img.shields.io/badge/VHDL-4ECDC4?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/Xilinx_Vivado-FF6600?style=for-the-badge&logo=amd&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Kintex--7_%26_Artix--7-grey?style=for-the-badge" height="20"/></td>
   </tr>
   <tr>
-    <td><b>HW-SW Co-Design of MAYO Verification on Zynq Z7-10</b><br/><sub>AES-CTR/SHAKE-256 on PS + DMA AXI-Stream PL accelerators</sub></td>
-    <td><img src="https://img.shields.io/badge/Vitis-FF6600?style=flat-square&logo=amd&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/VHDL-4ECDC4?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AXI4-grey?style=flat-square" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/mayo-verify-accelerator">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/mayo-verify-accelerator">HW-SW Co-Design of MAYO Verification on Zynq Z7-10</a></b><br/><sub>AES-CTR/SHAKE-256 on PS + DMA AXI-Stream PL accelerators</sub></td>
+    <td><img src="https://img.shields.io/badge/Vitis-FF6600?style=for-the-badge&logo=amd&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/VHDL-4ECDC4?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AXI4-grey?style=for-the-badge" height="20"/></td>
   </tr>
   <tr>
-    <td><b>Tree-Based CMOS Decoder Decomposition for SRAM</b><br/><sub>14.5% delay improvement for 64x64 SRAM on 180nm tech</sub></td>
-    <td><img src="https://img.shields.io/badge/Cadence_Virtuoso-007ACC?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Timing_Analysis-grey?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/VLSI-purple?style=flat-square" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design">Tree-Based CMOS Decoder Decomposition for SRAM</a></b><br/><sub>14.5% delay improvement for 64x64 SRAM on 180nm tech</sub></td>
+    <td><img src="https://img.shields.io/badge/Cadence_Virtuoso-007ACC?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/Timing_Analysis-grey?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/VLSI-purple?style=for-the-badge" height="20"/></td>
   </tr>
   <tr>
-    <td><b>Memory-Level Design &amp; UVM Verification of Multi-Port SRAM</b><br/><sub>Assertions, functional coverage &amp; code coverage reports</sub></td>
-    <td><img src="https://img.shields.io/badge/Verilog-FF6B6B?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/UVM-FFA07A?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/QuestaSim-5C2D91?style=flat-square&logo=siemens&logoColor=white" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design">Memory-Level Design &amp; UVM Verification of Multi-Port SRAM</a></b><br/><sub>Assertions, functional coverage &amp; code coverage reports</sub></td>
+    <td><img src="https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/UVM-FFA07A?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/QuestaSim-5C2D91?style=for-the-badge&logo=siemens&logoColor=white" height="20"/></td>
   </tr>
   <tr>
-    <td><b>Transformer Anomaly Detection</b><br/><sub>Real-time voltage &amp; temperature monitoring with ML</sub></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Random_Forests-4EAA25?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="20"/></td>
-    <td align="center"><a href="https://gitlab.com/iotiotdotin/project-internship/transformer-anomaly-monitoring">📁 Repo</a></td>
+    <td><b><a href="https://gitlab.com/iotiotdotin/project-internship/transformer-anomaly-monitoring">Transformer Anomaly Detection</a></b><br/><sub>Real-time voltage &amp; temperature monitoring with ML</sub></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Random_Forests-4EAA25?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="20"/></td>
   </tr>
   <tr>
-    <td><b>GenAI-Powered Global Climate Intelligence Dashboard</b><br/><sub>RAG pipeline with vector memory &amp; LLM-driven insights</sub></td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ChromaDB-grey?style=flat-square" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/climate-analyst">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/climate-analyst">GenAI-Powered Global Climate Intelligence Dashboard</a></b><br/><sub>RAG pipeline with vector memory &amp; LLM-driven insights</sub></td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ChromaDB-grey?style=for-the-badge" height="20"/></td>
   </tr>
   <tr>
-    <td><b>ng-dyno-form — Angular Dynamic Forms Library</b><br/><sub>Dynamic reactive forms with validation &amp; conditional fields</sub></td>
-    <td><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/ng-dyno-form">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/ng-dyno-form">ng-dyno-form — Angular Dynamic Forms Library</a></b><br/><sub>Dynamic reactive forms with validation &amp; conditional fields</sub></td>
+    <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"/></td>
   </tr>
   <tr>
-    <td><b>Neuromorphic Motion Detection</b><br/><sub>Low-power real-time detection using Spiking Neural Networks</sub></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/SNN-purple?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/neuromorphic-motion-detection">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/neuromorphic-motion-detection">Neuromorphic Motion Detection</a></b><br/><sub>Low-power real-time detection using Spiking Neural Networks</sub></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/SNN-purple?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20"/></td>
   </tr>
   <tr>
-    <td><b>8-bit Harvard Architecture Processor</b><br/><sub>32 registers, 8-bit ALU, 256-location data memory</sub></td>
-    <td><img src="https://img.shields.io/badge/Verilog-FF6B6B?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Xilinx_Vivado-FF6600?style=flat-square&logo=amd&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/VLSI-purple?style=flat-square" height="20"/></td>
-    <td align="center"><a href="https://github.com/kowsyap/8-bit-harvard-processor">📁 Repo</a></td>
+    <td><b><a href="https://github.com/kowsyap/8-bit-harvard-processor">8-bit Harvard Architecture Processor</a></b><br/><sub>32 registers, 8-bit ALU, 256-location data memory</sub></td>
+    <td><img src="https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge" height="20"/> <img src="https://img.shields.io/badge/Xilinx_Vivado-FF6600?style=for-the-badge&logo=amd&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/VLSI-purple?style=for-the-badge" height="20"/></td>
   </tr>
 </table>
 
