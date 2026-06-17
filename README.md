@@ -1,9 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Kowsyap%20Pranay%20Kumar%20Musumuri&fontSize=36&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=FPGA%20%26%20RTL%20Design%20Engineer%20%7C%20Post-Quantum%20Cryptography%20%7C%20MS%20CE%20%40%20GMU&descAlignY=58&descSize=16&descColor=a8b2d8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header" />
 
-<!-- Animated Typing -->
+<!-- Name Title -->
+<h1 style="font-size:2.8em; font-weight:900; margin:0.2em 0;">Kowsyap Pranay Kumar Musumuri</h1>
+
+<!-- Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Hardware+Engineer+%7C+FPGA+%7C+RTL+Design;MS+Computer+Engineering+%40+GMU;Building+the+Future+of+Secure+Hardware+%F0%9F%94%90" alt="Typing SVG" />
 </a>
