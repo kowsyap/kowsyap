@@ -35,7 +35,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsyap&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=true" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsyap&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
 
 ## 🧑‍💻 About Me
 
