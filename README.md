@@ -111,12 +111,12 @@ Previously, I worked as a **Digital Design Engineer at Infosys**, designing RTL 
 
 | Project | Tech Stack |
 |---|---|
-| **[Reconfigurable High-Speed HW Accelerator for MAYO (Post-Quantum)](https://github.com/kowsyap)** | VHDL, Xilinx Vivado, Artix-7 |
-| **[HW-SW Co-Design of MAYO Verification on Zynq Z7-10](https://github.com/kowsyap)** | Vitis, VHDL, Python, AXI4, Zynq SoC |
-| **[Tree-Based Decomposition of Large CMOS Decoders for SRAM](https://github.com/kowsyap)** | Cadence Virtuoso, Timing Analysis |
-| **[Memory-Level Design & UVM Verification of Multi-Port SRAM](https://github.com/kowsyap)** | Verilog, UVM, QuestaSim |
-| **[Transformer Anomaly Detection](https://github.com/kowsyap)** | Python, Lazypredict, Random Forests, Raspberry Pi |
-| **[GenAI-Powered Global Climate Intelligence Dashboard](https://github.com/kowsyap)** | React, Azure, OpenAI, Gemini LLMs, RAG, ChromaDB |
+| **Reconfigurable High-Speed HW Accelerator for MAYO (Post-Quantum)** | VHDL, Xilinx Vivado, Artix-7 |
+| **[HW-SW Co-Design of MAYO Verification on Zynq Z7-10](https://github.com/kowsyap/mayo-verify-accelerator)** | Vitis, VHDL, Python, AXI4, Zynq SoC |
+| **[Tree-Based Decomposition of Large CMOS Decoders for SRAM](https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design)** | Cadence Virtuoso, Timing Analysis |
+| **[Memory-Level Design & UVM Verification of Multi-Port SRAM](https://github.com/kowsyap/Physical-Design-and-Verification-of-DPRAM-using-SV-UVM-and-Semi-Custom-Design)** | Verilog, UVM, QuestaSim |
+| **[Transformer Anomaly Detection](https://gitlab.com/iotiotdotin/project-internship/transformer-anomaly-monitoring)** | Python, Lazypredict, Random Forests, Raspberry Pi |
+| **[GenAI-Powered Global Climate Intelligence Dashboard](https://github.com/kowsyap/climate-analyst)** | React, Azure, OpenAI, Gemini LLMs, RAG, ChromaDB |
 
 ---
 
