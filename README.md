@@ -50,7 +50,7 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 📍 Location   : Fairfax, VA, USA
 ```
 
-<!-- <br clear="right"/> -->
+ <br clear="right"/>
 
 ---
 
