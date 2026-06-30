@@ -228,10 +228,13 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kowsyap&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=kowsyap&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="155" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kowsyap&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowsyap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowsyap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="155" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kowsyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="155" />
 
 <br/>
 
