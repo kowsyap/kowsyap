@@ -35,8 +35,6 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsyap&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
-
 ## 🧑‍💻 About Me
 
 I'm a **Computer Engineering MS student** at **George Mason University** (GPA: 3.89/4.0), specializing in **FPGA-based hardware design, RTL design, and hardware-software co-design**. My research focuses on implementing **post-quantum cryptography** in hardware, targeting Xilinx Artix-7 and Zynq SoC platforms.
@@ -235,6 +233,8 @@ Previously a **Digital Design Engineer at Infosys**, designing RTL modules and F
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kowsyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="155" />
+&nbsp;&nbsp;
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsyap&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
 
 <br/>
 
