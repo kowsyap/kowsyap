@@ -21,8 +21,8 @@
   <a href="mailto:pranaykumarkowsyap@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-pranaykumarkowsyap-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="https://kowsyappranay.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kowsyappranay.online-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://kowsyappranay.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kowsyappranay.site-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://t.me/kowsyap" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-kowsyap-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
